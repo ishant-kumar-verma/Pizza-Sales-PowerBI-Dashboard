@@ -26,7 +26,7 @@ This is an interactive Power BI dashboard developed using the Maven Pizza Sales 
 
 ### 📈 Executive Dashboard
 
-![Executive Dashboard](Images/Executive%20dashboard.png)
+![Executive Dashboard]([Images/Executive%20dashboard.png](https://github.com/ishant-kumar-verma/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza-Sales-PowerBI-Dashboard/Images/Executive%20dashboard.png))
 
 ---
 
