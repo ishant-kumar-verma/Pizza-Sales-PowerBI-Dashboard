@@ -20,7 +20,7 @@ This is an interactive Power BI dashboard developed using the Maven Pizza Sales 
 
 ### 🏠 Home
 
-Pizza-Sales-PowerBI-Dashboard/Images/pizza sales landing.png
+![Home](https://github.com/ishant-kumar-verma/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza-Sales-PowerBI-Dashboard/Images/pizza%20sales%20landing.png)
 
 ---
 
