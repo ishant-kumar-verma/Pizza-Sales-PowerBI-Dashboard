@@ -26,20 +26,18 @@ This is an interactive Power BI dashboard developed using the Maven Pizza Sales 
 
 ### 📈 Executive Dashboard
 
-![Executive Dashboard]([Images/Executive%20dashboard.png](https://github.com/ishant-kumar-verma/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza-Sales-PowerBI-Dashboard/Images/Executive%20dashboard.png))
+![Executive Dashboard](https://github.com/ishant-kumar-verma/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza-Sales-PowerBI-Dashboard/Images/Executive%20dashboard.png)
 
 ---
 
 ### 💡 Business Insights
 
-![Business Insights](Images/Business%20Insights.png)
-
+![Business Insights](https://github.com/ishant-kumar-verma/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza-Sales-PowerBI-Dashboard/Images/Business%20Insights.png)
 ---
 
 ### 📊 Performance Analysis
 
-![Performance Analysis](Images/Performance%20Analysis.png)
-
+![Performance Analysis](https://github.com/ishant-kumar-verma/Pizza-Sales-PowerBI-Dashboard/blob/main/Pizza-Sales-PowerBI-Dashboard/Images/Performance%20Analysis.png)
 ---
 
 ## 📈 Key Metrics
